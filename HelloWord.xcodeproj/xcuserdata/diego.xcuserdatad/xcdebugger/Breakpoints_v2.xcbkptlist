@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWord/PlatzigramPostCell.swift"
+            timestampString = "529282209.202172"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "PlatzigramPostCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWord.PlatzigramPostCell.imageUserPost.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "HelloWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diego/Desktop/iOS/HelloWord/HelloWord/PlatzigramPostCell.swift"
+                  timestampString = "529276141.386753"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWord.PlatzigramPostCell.imageUserPost.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "HelloWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diego/Desktop/iOS/HelloWord/HelloWord/PlatzigramPostCell.swift"
+                  timestampString = "529276141.391745"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWord.PlatzigramPostCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; HelloWord.PlatzigramPostCell"
+                  moduleName = "HelloWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diego/Desktop/iOS/HelloWord/HelloWord/PlatzigramPostCell.swift"
+                  timestampString = "529276141.39682"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWord.PlatzigramPostCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelloWord.PlatzigramPostCell&gt;"
+                  moduleName = "HelloWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diego/Desktop/iOS/HelloWord/HelloWord/PlatzigramPostCell.swift"
+                  timestampString = "529276141.400449"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWord/PlatzigramPostCell.swift"
+            timestampString = "529282209.202363"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "PlatzigramPostCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWord/PlatzigramPostCell.swift"
+            timestampString = "529282209.20248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "PlatzigramPostCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWord.PlatzigramPostCell.imageUserPost.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "HelloWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diego/Desktop/iOS/HelloWord/HelloWord/PlatzigramPostCell.swift"
+                  timestampString = "529276184.890664"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWord.PlatzigramPostCell.imageUserPost.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "HelloWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diego/Desktop/iOS/HelloWord/HelloWord/PlatzigramPostCell.swift"
+                  timestampString = "529276184.894259"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWord.PlatzigramPostCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; HelloWord.PlatzigramPostCell"
+                  moduleName = "HelloWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diego/Desktop/iOS/HelloWord/HelloWord/PlatzigramPostCell.swift"
+                  timestampString = "529276184.897668"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWord.PlatzigramPostCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelloWord.PlatzigramPostCell&gt;"
+                  moduleName = "HelloWord"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diego/Desktop/iOS/HelloWord/HelloWord/PlatzigramPostCell.swift"
+                  timestampString = "529276184.901066"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
