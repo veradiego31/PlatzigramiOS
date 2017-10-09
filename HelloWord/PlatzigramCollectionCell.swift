@@ -17,13 +17,16 @@ class PlatzigramCollectionCell: UICollectionViewCell {
     @IBOutlet weak var imageCell: UIImageView!
     
     
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         titleLabel.text = ""
+        
     }
     
     func setTitle(title : String){
         titleLabel.text = title
     }
+    
     
 }
